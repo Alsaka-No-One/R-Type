@@ -1,6 +1,6 @@
 # B-CPP-501-PAR-5-1-rtype-gaetan.depin
 ## Project
-[Documentation](./doc/html/index.html)
+<a href="./doc/html/index.html">Documentation of the project</a>
 
 ## Component
 [Documentation](./doc/component.md)
