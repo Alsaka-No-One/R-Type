@@ -1,6 +1,6 @@
 # B-CPP-501-PAR-5-1-rtype-gaetan.depin
 ## Project
-<a href="./doc/html/index.html">Documentation of the project</a>
+To open documentation, just open the index.html file in the path "./doc/html/index.html"
 
 ## Component
 [Documentation](./doc/component.md)
