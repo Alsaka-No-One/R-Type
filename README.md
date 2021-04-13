@@ -1,4 +1,6 @@
 # B-CPP-501-PAR-5-1-rtype-gaetan.depin
+## Project
+[Documentation](./doc/html/index.html)
 
 ## Component
 [Documentation](./doc/component.md)
